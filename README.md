@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/19897701/179419350-6761763d-4166-4d93-bf09-dcd4ab77c303.png" width="150" />
-  <h3 align="center">Welcome, I am Dustin (`rubyhacka`).</h3>
+  <h3 align="center">Welcome, I am Dustin (<code>rubyhacka</code>).</h3>
   <h5 align="center">Organized, self-motivated, deadline oriented, and team focused.</h5>
 </p>
 
